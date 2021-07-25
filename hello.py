@@ -7,3 +7,4 @@ result = add(
 )
 
 print(f"This is the sum: 1, 2, {result}")
+print('Hello World!')
