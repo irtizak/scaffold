@@ -1,7 +1,7 @@
 [![Python application test with Github Actions](https://github.com/irtizak/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/irtizak/scaffold/actions/workflows/main.yml)
 
 # scaffold
-This project applied Continuous Delivery (CD) using a Makefile.
+This project applied Continuous Integration (CI) using a Makefile.
 
 The Makefile has steps to:
 * install the requirements file
@@ -9,5 +9,5 @@ The Makefile has steps to:
 * perform lint test using pylint
 * run unit tests using pytest
 
-The CD pipeline is triggered on pushing code to the repo.
+The CI pipeline is triggered on pushing code to the repo.
 
