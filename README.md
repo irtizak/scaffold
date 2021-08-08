@@ -1,7 +1,7 @@
 [![Python application test with Github Actions](https://github.com/irtizak/scaffold/actions/workflows/main.yml/badge.svg)](https://github.com/irtizak/scaffold/actions/workflows/main.yml)
 
 # scaffold
-This project applied Continuous Integration (CI) using a Makefile.
+This project applies Continuous Integration (CI) using a Makefile.
 
 The Makefile has steps to:
 * install the requirements file
